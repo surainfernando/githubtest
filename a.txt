@@ -2,3 +2,4 @@ commit 1
 commit 2//d
 commit 3
 commit4
+commit6
